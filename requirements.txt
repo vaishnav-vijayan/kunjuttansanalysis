@@ -1,1 +1,8 @@
+pandas
+plotly
+voila
+matplotlib
+seaborn
+ipywidgets
+IPython
 
